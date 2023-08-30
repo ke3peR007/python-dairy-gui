@@ -1,8 +1,7 @@
 """
 Diary app
 """
-from tkinter import Tk
-from tkinter import ttk
+from tkinter import Tk, ttk
 
 long_list = [
     "this",
